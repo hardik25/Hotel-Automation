@@ -1,0 +1,30 @@
+E:\projects\AIT Project\Hotel Automation Software\Hotel Automation Software\bin\Hotel Automation Software.dll
+E:\projects\AIT Project\Hotel Automation Software\Hotel Automation Software\bin\Hotel Automation Software.pdb
+E:\projects\AIT Project\Hotel Automation Software\Hotel Automation Software\bin\Antlr3.Runtime.dll
+E:\projects\AIT Project\Hotel Automation Software\Hotel Automation Software\bin\AspNet.ScriptManager.jQuery.dll
+E:\projects\AIT Project\Hotel Automation Software\Hotel Automation Software\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+E:\projects\AIT Project\Hotel Automation Software\Hotel Automation Software\bin\DotNetOpenAuth.AspNet.dll
+E:\projects\AIT Project\Hotel Automation Software\Hotel Automation Software\bin\DotNetOpenAuth.Core.dll
+E:\projects\AIT Project\Hotel Automation Software\Hotel Automation Software\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\projects\AIT Project\Hotel Automation Software\Hotel Automation Software\bin\DotNetOpenAuth.OAuth.dll
+E:\projects\AIT Project\Hotel Automation Software\Hotel Automation Software\bin\DotNetOpenAuth.OpenId.dll
+E:\projects\AIT Project\Hotel Automation Software\Hotel Automation Software\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\projects\AIT Project\Hotel Automation Software\Hotel Automation Software\bin\EntityFramework.dll
+E:\projects\AIT Project\Hotel Automation Software\Hotel Automation Software\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+E:\projects\AIT Project\Hotel Automation Software\Hotel Automation Software\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\projects\AIT Project\Hotel Automation Software\Hotel Automation Software\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\projects\AIT Project\Hotel Automation Software\Hotel Automation Software\bin\Microsoft.ScriptManager.WebForms.dll
+E:\projects\AIT Project\Hotel Automation Software\Hotel Automation Software\bin\Microsoft.Web.Infrastructure.dll
+E:\projects\AIT Project\Hotel Automation Software\Hotel Automation Software\bin\System.Web.Optimization.dll
+E:\projects\AIT Project\Hotel Automation Software\Hotel Automation Software\bin\System.Web.Providers.dll
+E:\projects\AIT Project\Hotel Automation Software\Hotel Automation Software\bin\WebGrease.dll
+E:\projects\AIT Project\Hotel Automation Software\Hotel Automation Software\bin\EntityFramework.xml
+E:\projects\AIT Project\Hotel Automation Software\Hotel Automation Software\bin\DotNetOpenAuth.Core.xml
+E:\projects\AIT Project\Hotel Automation Software\Hotel Automation Software\bin\DotNetOpenAuth.OAuth.xml
+E:\projects\AIT Project\Hotel Automation Software\Hotel Automation Software\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\projects\AIT Project\Hotel Automation Software\Hotel Automation Software\bin\DotNetOpenAuth.OpenId.xml
+E:\projects\AIT Project\Hotel Automation Software\Hotel Automation Software\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\projects\AIT Project\Hotel Automation Software\Hotel Automation Software\bin\DotNetOpenAuth.AspNet.xml
+E:\projects\AIT Project\Hotel Automation Software\Hotel Automation Software\obj\Debug\Hotel Automation Software.csprojResolveAssemblyReference.cache
+E:\projects\AIT Project\Hotel Automation Software\Hotel Automation Software\obj\Debug\Hotel Automation Software.dll
+E:\projects\AIT Project\Hotel Automation Software\Hotel Automation Software\obj\Debug\Hotel Automation Software.pdb

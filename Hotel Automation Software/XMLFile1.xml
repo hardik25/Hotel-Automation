@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Advertisements>
+  <Ad>
+    <ImageUrl>Images/b1.jpg</ImageUrl>
+    <NavigateUrl>www.starwoodhotels.com/sheraton/</NavigateUrl>
+    <AlternateText>Discount on Rooms</AlternateText>
+    <Impressions>40</Impressions>
+    <Keyword>Hotels</Keyword>
+  </Ad>
+
+   <Ad>
+    <ImageUrl>Images/b2.png</ImageUrl>
+    <NavigateUrl>https://www.goibibo.com/</NavigateUrl>
+    <AlternateText>Airfare</AlternateText>
+    <Impressions>60</Impressions>
+    <Keyword>Hotels</Keyword>
+   </Ad>
+  </Advertisements>

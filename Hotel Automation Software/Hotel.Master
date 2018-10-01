@@ -1,0 +1,76 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Hotel.master.cs" Inherits="Hotel_Automation_Software.Hotel" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="css/materialize.css" rel="stylesheet"/>
+    <!--<link href="css/materialize.min.css" rel="stylesheet"/>-->
+</head>
+<body>
+    
+    <form id="form1" runat="server">
+        
+        
+        
+    <div>
+         <nav>
+    <div class="nav-wrapper" id="testid">
+      <a href="#" class="brand-logo"><img src="Images/sheraton_logo.gif" height="120" width="150"/></a>
+      <ul id="nav-mobile" class="right hide-on-med-and-down">
+        
+        <li><a href="Home.aspx"><b>Home</b></a></li>
+          <li><a href="Login.aspx"><b>Login</b></a></li>
+          <li><a href="Login.aspx"><b>Logout</b></a></li>
+       
+      </ul>
+    </div>
+  </nav>
+        
+    </div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        
+        <asp:AdRotator ID="Ads" runat="server" AdvertisementFile="XMLFile1.xml" Target="_blank" KeywordFilter="Hotels" Height="200px" Width="1200px"/>
+
+        <footer class="page-footer">
+          <div class="container">
+            <div class="row">
+              <div class="col l6 s12">
+                <h5 class="white-text">Sheraton Hotels and Resorts</h5>
+                <p class="grey-text text-lighten-4"></p>
+                    <ul>
+                       <li><a class="grey-text text-lighten-3" href="#!">About Us</a></li>
+                        <li><a class="grey-text text-lighten-3" href="#!">History</a></li>
+                        <li><a class="grey-text text-lighten-3" href="#!">Careers</a></li>
+                        <li><a class="grey-text text-lighten-3" href="#!">Vacation Ownerships</a></li>
+                    </ul>
+                
+              </div>
+              <div class="col l4 offset-l2 s12">
+                <h5 class="white-text">Top Destinations</h5>
+                <ul>
+                  <li><a class="grey-text text-lighten-3" href="#!">Singapore Hotels</a></li>
+                  <li><a class="grey-text text-lighten-3" href="#!">Hong Kong Hotels</a></li>
+                  <li><a class="grey-text text-lighten-3" href="#!">Shanghai Hotels</a></li>
+                  <li><a class="grey-text text-lighten-3" href="#!">India Hotels</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="footer-copyright">
+            <div class="container">
+            2016 Marriott International, Inc., All rights reserved. |
+            <a class="grey-text text-lighten-4 right" href="#!"><img src="Images/facebook-512.png" height="40" width="45"/></a>
+            <a class="grey-text text-lighten-4 right" href="#!"><img src="Images/twitter-xxl.png" height="40" width="45"/></a>
+            <a class="grey-text text-lighten-4 right" href="#!"><img src="Images/instagram-512.png" height="40" width="45"/></a>
+            </div>
+          </div>
+        </footer> 
+    </form>
+        
+</body>
+</html>
